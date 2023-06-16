@@ -22,11 +22,8 @@ this is the link to kaggle dataset [A-Z Uppercase Handwritten Alphabet](https://
 
 ## Architecture Used in Model 
 Using Convolutional Neural Network (CNN) model to Classify the image, we can modify the model architecture based on requirements and in this project we use this architecture 
-- Convolutional 2D layers
-- Dense layers
-- Dropout layers
-- Flatten layers
-- MaxPooling layers
+
+![image](https://i.ibb.co/LQ19BGx/Screenshot-169.png)
 
 ## Requirements Used in this Project
 - Tensorflow
